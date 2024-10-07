@@ -24,7 +24,13 @@
     <Compile Include="minecraft.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="generator_function-tree.drawio" />
+    <Content Include="function-tree.drawio" />
+    <Content Include="sprites\.sprite3\Generator.sprite3" />
+    <Content Include="sprites\generator.sb3" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="sprites\" />
+    <Folder Include="sprites\.sprite3\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
