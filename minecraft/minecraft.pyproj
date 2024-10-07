@@ -24,7 +24,6 @@
     <Compile Include="minecraft.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="function-tree.drawio" />
     <Content Include="sprites\.sprite3\Generator.sprite3" />
     <Content Include="sprites\generator.sb3" />
   </ItemGroup>
